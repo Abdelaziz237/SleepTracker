@@ -14,6 +14,8 @@ This app demonstrates the following views and techniques:
 * Room database
 * DAO
 * Coroutines
+* RecyclerView with DiffUtil 
+* Binding Adapter
 
 It also uses and builds on the following techniques:
 * Transformation map
