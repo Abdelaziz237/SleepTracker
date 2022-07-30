@@ -24,6 +24,6 @@ It also uses and builds on the following techniques:
 
 ## Screenshots
 
-![Screenshot1](screenshots/sleep_quality_tracker_start.png)
-![Screenshot2](screenshots/sleep_quality_tracker_stop.png)
+![Screenshot1](screenshots/sleep_quality_tracker_start.jpg)
+![Screenshot2](screenshots/sleep_quality_tracker_stop.jpg)
 ![Screenshot3](screenshots/sleep_quality_tracker_quality.png)
