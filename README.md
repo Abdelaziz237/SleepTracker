@@ -24,5 +24,5 @@ It also uses and builds on the following techniques:
 
 ## Screenshots
 
-<img src="screenshots/sleep_quality_tracker_start.jpg" width="300" height="600" /> | <img src="screenshots/sleep_quality_tracker_stop.jpg" width="300" height="600" />
+<img src="screenshots/sleep_quality_tracker_start.jpg" width="300" height="600" /> <img src="screenshots/sleep_quality_tracker_stop.jpg" width="300" height="600" />
 <img src="screenshots/sleep_quality_tracker_quality.jpg" width="300" height="600" /> 
